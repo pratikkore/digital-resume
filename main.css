@@ -1,0 +1,68 @@
+h2 {
+  font-size: 35px !important;
+  line-height: 2 !important;
+  font-weight: 800;
+  color: black;
+  margin-bottom: 20px;
+}
+
+h4 {
+  font-size: 16px !important;
+  line-height: 3;
+  font-weight: 800;
+  color: var(--text-white);
+  margin-bottom: 20px;
+  font-family: 'Raleway';
+}
+
+p {
+  color: var(--text-white);
+  font-size: 13px;
+  line-height: 1.0;
+  /* letter-spacing: 1px; */
+  font-weight: 400;
+  font-family: 'Lato';
+  /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+}
+
+.name-p{
+  margin-bottom: 4px !important;
+
+}
+
+.horizontalLine {
+  color: black;
+  opacity: 1;
+}
+
+div.main {
+  line-height: 0.5%;
+}
+
+p1 {
+  font-family: 'Raleway';
+  font-size: 18px;
+  font-weight: 500;
+
+}
+
+.fw-normal{
+  font-family: 'Lato';
+}
+
+.project-h4{
+  font-size: 20px !important;
+  margin-bottom: 12px
+}
+
+hr {
+  margin: 6px 0 !important;
+}
+
+.container .fw-bold{
+  font-weight: 600!important;
+}
+
+.content-div p{
+    line-height: 1.3 !important
+  }
